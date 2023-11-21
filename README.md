@@ -1,2 +1,2 @@
 # Grocery-POS-Source-Code
-System to fill
+py with django framework
